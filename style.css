@@ -1,0 +1,21 @@
+.hide {
+    display: none;
+}
+
+.wrap {
+    background: rgb(90, 112, 128);
+    width: 250px;
+    padding: 200px;
+    height: 500px;
+}
+
+.h1 {
+    text-transform: uppercase;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+.ul {
+    padding: 50px;
+}
